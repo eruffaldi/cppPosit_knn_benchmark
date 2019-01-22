@@ -1,0 +1,13 @@
+[submodule "cppPosit"]
+	path = cppPosit
+	url = https://github.com/eruffaldi/cppPosit
+[submodule "ann-benchmarks"]
+	path = ann-benchmarks
+	url = https://github.com/eruffaldi/ann-benchmarks/
+[submodule "posit_kdtree"]
+	path = posit_kdtree
+	url = https://github.com/eruffaldi/posit_kdtree
+[submodule "nanoflann"]
+	path = nanoflann
+	url = https://github.com/eruffaldi/nanoflann
+	branch = moretypes
