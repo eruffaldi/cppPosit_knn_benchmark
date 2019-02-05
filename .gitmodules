@@ -4,6 +4,7 @@
 [submodule "ann-benchmarks"]
 	path = ann-benchmarks
 	url = https://github.com/eruffaldi/ann-benchmarks/
+	branch = positknn
 [submodule "posit_kdtree"]
 	path = posit_kdtree
 	url = https://github.com/eruffaldi/posit_kdtree
